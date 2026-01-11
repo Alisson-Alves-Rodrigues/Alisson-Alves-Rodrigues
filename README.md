@@ -37,8 +37,6 @@ Atualmente estou focado em **Banco de Dados e SQL**, construindo uma base sólid
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Alisson-Alves-Rodrigues&theme=dracula)
 
----
-
 ## 🛠️ Stack em construção
 
 <p align="center">
