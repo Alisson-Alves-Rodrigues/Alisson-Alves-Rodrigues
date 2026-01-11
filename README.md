@@ -25,23 +25,17 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou focado em **
 ## 📈 Minha evolução no GitHub
 
 <p align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alisson-Alves-Rodrigues&theme=tokyo-night)
-</p>
-
-<p align="center">
- 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisson-Alves-Rodrigues&show_icons=true&theme=tokyonight)
-
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Alves-Rodrigues&layout=compact&theme=tokyonight)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alisson-Alves-Rodrigues&theme=tokyo-night)
 </p>
 
 <p align="center">
- 
- ![GitHub Streak](https://streak-stats.demolab.com?user=Alisson-Alves-Rodrigues&theme=tokyonight)
-</p>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alisson-Alves-Rodrigues&show_icons=true&theme=tokyonight)
 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Alves-Rodrigues&layout=compact&theme=tokyonight)
+</p>
 ---
 
 ## 🛠️ Tecnologias em aprendizado
