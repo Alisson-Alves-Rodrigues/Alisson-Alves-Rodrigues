@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272A4&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF5555&size=28&center=true&vCenter=true&width=1000&lines=Alisson+Alves+Rodrigues;Transição+de+Carreira+para+TI;Banco+de+Dados+%7C+SQL;Aprendizado+Contínuo+e+Evolução+Real)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BD93F9&size=28&center=true&vCenter=true&width=1000&lines=Alisson+Alves+Rodrigues;Transição+de+Carreira+para+TI;Banco+de+Dados+%7C+SQL;Aprendizado+Contínuo+e+Evolução+Real)](https://git.io/typing-svg)
+
 
 ---
 
@@ -29,11 +30,6 @@ Atualmente estou focado em **Banco de Dados e SQL**, construindo uma base sólid
 > *Aqui não tem mágica. Só constância.*
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alisson-Alves-Rodrigues&theme=dracula)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisson-Alves-Rodrigues&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson-Alves-Rodrigues&layout=compact&theme=dracula" />
-</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Alisson-Alves-Rodrigues&theme=dracula)
 
