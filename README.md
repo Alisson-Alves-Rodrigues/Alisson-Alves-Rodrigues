@@ -1,12 +1,59 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alisson+Alves+Rodrigues;I'm+27+years+old;I+am+from+Ribeirão+preto,+SP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alisson+Alves;27+anos;Em+transição+de+carreira+para+TI;Evoluindo+um+dia+de+cada+vez)](https://git.io/typing-svg)
+
+---
+
+## 👋 Sobre mim
+
+Sou **Alisson Alves**, tenho 27 anos e estou em **transição de carreira para a área de Tecnologia da Informação**.  
+Atuei por anos na área de alimentação, onde desenvolvi disciplina, responsabilidade e trabalho em equipe.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou focado em **Banco de Dados e SQL**, buscando minha **primeira oportunidade em TI**.
+
+---
+
+## 🚀 Momento atual
+
+- 📚 Estudando pela **DIO (Database Experience)**
+- 🗄️ Foco em **Banco de Dados Relacional e SQL**
+- 🔁 Construindo projetos práticos para ganhar experiência
+- 🎯 Objetivo: **Primeira vaga em TI (Suporte / Dados / Júnior)**
+
+---
+
+## 📈 Minha evolução no GitHub
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🛠️ Tecnologias em aprendizado
+
+- 🗄️ SQL
+- 📊 Modelagem de Dados
+- 🐘 Banco de Dados Relacional
+- 🔧 Git & GitHub (básico)
+
+---
+
+## ✅ Minha jornada
+
+- [x] Iniciar transição para TI
+- [x] Criar perfil no GitHub
+- [ ] Concluir módulo SQL – DIO
+- [ ] Criar projeto SQL próprio
+- [ ] Publicar portfólio
+- [ ] Conquistar primeira vaga em TI 🚀
+
+---
+
+## 📫 Contato
 
 <div align="center">  
-<a href="https://www.instagram.com/4lisson.4lves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
-
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<a href="https://www.instagram.com/4lisson.4lves/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>
